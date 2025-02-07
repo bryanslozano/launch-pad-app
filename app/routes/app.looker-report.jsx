@@ -1,5 +1,17 @@
 import React from 'react';
+import {
+  Box,
+  Card,
+  Layout,
+  Link,
+  List,
+  Page,
+  Text,
+  BlockStack,
+} from "@shopify/polaris";
+import { TitleBar } from "@shopify/app-bridge-react";
 
+<TitleBar title="Acquisition Overview" />
 export default function LookerReport() {
   return (
     <div>
