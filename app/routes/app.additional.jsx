@@ -41,7 +41,7 @@ export default function AdditionalPage() {
               <div>
 <h1>Looker Studio Report</h1>
 <iframe
-  src="https://lookerstudio.google.com/s/vdUlZG-2pSo"
+  src="https://lookerstudio.google.com/reporting/f908de8b-0215-4c85-8d8e-dada0efedaa2"
   width="100%"
   height="600"
   frameBorder="0"
