@@ -11,7 +11,7 @@ import {
 } from "@shopify/polaris";
 import { TitleBar } from "@shopify/app-bridge-react";
 
-<TitleBar title="Acquisition Overview" />
+
 export default function LookerReport() {
   return (
     <div>
@@ -19,7 +19,7 @@ export default function LookerReport() {
       <iframe
         src="https://lookerstudio.google.com/embed/reporting/f908de8b-0215-4c85-8d8e-dada0efedaa2/page/p_ig7dmtugfd"
         width="100%"
-        height="600"
+        height="100%"
         frameBorder="0"
         allowFullScreen
       ></iframe>
