@@ -5,7 +5,7 @@ export default function LookerReport() {
     <div>
       <h1>Looker Studio Report</h1>
       <iframe
-        src="https://lookerstudio.google.com/reporting/dc7578cf-c11b-48b7-a0a8-30e0ca55e331"
+        src="https://lookerstudio.google.com/s/vdUlZG-2pSo"
         width="100%"
         height="600"
         frameBorder="0"
