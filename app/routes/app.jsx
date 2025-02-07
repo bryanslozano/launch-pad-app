@@ -23,7 +23,8 @@ export default function App() {
           Home
         </Link>
         <Link to="/app/additional">Additional page</Link>
-        <Link to="/app/looker-report">Report page</Link>
+        <Link to="/app/looker-report-acquisition">Acquisition Report</Link>
+        <Link to="/app/report-test">Test Report</Link>
       </NavMenu>
       <Outlet />
     </AppProvider>
