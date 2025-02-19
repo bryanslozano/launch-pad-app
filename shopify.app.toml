@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "a86bbce459da95e983f43f8a6982a31e"
-application_url = "https://organisation-pakistan-knowledgestorm-exotic.trycloudflare.com"
+application_url = "https://ir-randy-greece-inside.trycloudflare.com"
 embedded = true
 name = "launch pad app"
 handle = "launch-pad-app"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://organisation-pakistan-knowledgestorm-exotic.trycloudflare.com/auth/callback",
-  "https://organisation-pakistan-knowledgestorm-exotic.trycloudflare.com/auth/shopify/callback",
-  "https://organisation-pakistan-knowledgestorm-exotic.trycloudflare.com/api/auth/callback"
+  "https://ir-randy-greece-inside.trycloudflare.com/auth/callback",
+  "https://ir-randy-greece-inside.trycloudflare.com/auth/shopify/callback",
+  "https://ir-randy-greece-inside.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
