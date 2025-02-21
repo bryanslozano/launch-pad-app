@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "a86bbce459da95e983f43f8a6982a31e"
-application_url = "https://peas-rapids-mercury-thomas.trycloudflare.com"
+application_url = "https://cemetery-investor-juice-site.trycloudflare.com"
 embedded = true
 name = "launch pad app"
 handle = "launch-pad-app"
@@ -27,9 +27,9 @@ scopes = "read_orders,read_products,write_products,write_orders"
 
 [auth]
 redirect_urls = [
-  "https://peas-rapids-mercury-thomas.trycloudflare.com/auth/callback",
-  "https://peas-rapids-mercury-thomas.trycloudflare.com/auth/shopify/callback",
-  "https://peas-rapids-mercury-thomas.trycloudflare.com/api/auth/callback"
+  "https://cemetery-investor-juice-site.trycloudflare.com/auth/callback",
+  "https://cemetery-investor-juice-site.trycloudflare.com/auth/shopify/callback",
+  "https://cemetery-investor-juice-site.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
